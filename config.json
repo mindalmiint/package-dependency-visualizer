@@ -1,0 +1,8 @@
+{
+  "packageName": "demo-app",
+  "repository": "examples/test-repository.json",
+  "testMode": true,
+  "asciiTree": true,
+  "maxDepth": 3,
+  "filter": ""
+}

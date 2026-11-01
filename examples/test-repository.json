@@ -1,0 +1,6 @@
+{
+  "demo-app": ["logger", "http-client"],
+  "logger": [],
+  "http-client": ["network-core"],
+  "network-core": []
+}
